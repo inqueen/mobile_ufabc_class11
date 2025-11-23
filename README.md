@@ -1,12 +1,10 @@
 # Desenvolvimento de Aplicativos Móveis Acessíveis voltados ao Design Universal | UFABC 2025
----
 ## Atividade 11 - IMC App
----
 <br>
 <br>
-
-[//]: # (video)
-
+<div align="center">   
+<video src="https://github.com/user-attachments/assets/1d83a780-c3f5-4531-87a2-1d8739552078" controls></video>
+</div>
 <br>
 <br>
 <b>Sobre a atividade</b> 
@@ -15,8 +13,9 @@ Aplicação que calcula o IMC a partir do peso e da altura fornecidos pelo usuá
 ```Activities```.
 
 ```Activity 1```
-Tem os campos ```Nome```, ```Peso``` e ```Altura```
-Exibe o botão ```Calular o IMC```
+Tem os campos ```nome```, ```peso``` e ```altura```
+<br>
+Exibe o botão ```Resultado do IMC```
 
 ```Activity 2```
 Com os dados recebidos na ```Activity 1```, o IMC é calculado e exibido na tela com o apoio de um 
@@ -39,7 +38,7 @@ melhorar a experiência de uso deste aplicativo:
 
 <i><b>IMCActivity</b></i>
 
-1. ```Peso``` e ```Altura``` 
+1. ```peso``` e ```altura``` 
     * os dados foram posicionados lado a lado para facilitar a visualização dos campos
 
 2. ```buttons```
