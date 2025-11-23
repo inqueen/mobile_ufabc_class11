@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ImcApp</string>
+    <string name="app_title">Cálculo do IMC</string>
+    <string name="app_subtitle">Índice de Massa Corporal</string>
+    <string name="hint_name">Digite o nome</string>
+    <string name="hint_peso">Informe o peso</string>
+    <string name="hint_altura">Informe a altura (em metros)</string>
+    <string name="calculo_btn">Resultado do IMC</string>
+    <string name="imc_img">Imagem de uma balança com o IMC escrito</string>
+    <string name="act2_nome">Nome: </string>
+    <string name="act2_peso">Peso: </string>
+    <string name="act2_altura">Altura: </string>
+    <string name="act2_imc">IMC: </string>
+    <string name="act2_resultado">Resultado: </string>
+    <string name="act2_img">Escala IMC com corpos humanos de baixo a obesidade</string>
+    <string name="act2_voltar_btn">Voltar</string>
+</resources>
