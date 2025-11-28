@@ -50,6 +50,13 @@ class MainActivity : AppCompatActivity() {
 	
 	override fun onResume() {
 		super.onResume()
+		try {
+			com.mobile.mobiledu.DUSettingsApplier.applyToActivity(this)
+			com.mobile.mobiledu.EnvironmentApplier.applyToActivity(this)
+			com.mobile.mobiledu.SoundApplier.applyToActivity(this)
+		} catch (e: Exception) {
+			e.printStackTrace()
+		}
 		if (::txtNome.isInitialized) txtNome.text.clear()
 		if (::txtPeso.isInitialized) txtPeso.text.clear()
 		if (::txtAltura.isInitialized) txtAltura.text.clear()
