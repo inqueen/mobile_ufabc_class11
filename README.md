@@ -1,13 +1,10 @@
 # Desenvolvimento de Aplicativos Móveis Acessíveis voltados ao Design Universal | UFABC 2025
 
----
-
 ## SUMÁRIO
 
 * [Atividade 11 - IMC App](#atividade-11---imc-app)
 * [Atividade 12 - MobileDU](#atividade-12---mobiledu)
 
----
 ### Atividade 11 - IMC App
 
 ```branch:``` https://github.com/inqueen/mobile_ufabc_class11/tree/main
