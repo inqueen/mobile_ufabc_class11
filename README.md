@@ -50,6 +50,9 @@ melhorar a experiência de uso deste aplicativo:
 
 1. revisar os atributos ```alt``` das imagens e itens de design para Design Universal
 
+
+[▲ Volte ao Sumário](#desenvolvimento-de-aplicativos-móveis-acessíveis-voltados-ao-design-universal--ufabc-2025)
+
 ### Atividade 12 - MobileDU
 
 ```branch:``` https://github.com/inqueen/mobile_ufabc_class11/tree/feature/mobileDU
@@ -87,6 +90,8 @@ melhorar a experiência de uso deste aplicativo:
 1. estudar mais sobre a temática da Acessibilidade
 2. revisar a paleta de cores `default` do `app` para que estejam de acordo ao utilizar a biblioteca
    `MobileDU`
+
+[▲ Volte ao Sumário](#desenvolvimento-de-aplicativos-móveis-acessíveis-voltados-ao-design-universal--ufabc-2025)
 
 ### Atividade 13 - Desenvolvimento Mobile e Acessibilidade
 #### Análise Crítica
@@ -141,3 +146,5 @@ flexibilidade de uso, informação perceptível, tolerância a erros).
     protejam de forma ampla e irrestrita os dados faciais e extremamente sensíveis que circulam em
     bancos de dados de empresas privadas e que, em um vazamento, podem trazer riscos e danos 
     patrimoniais serveros aos usuários.  
+
+[▲ Volte ao Sumário](#desenvolvimento-de-aplicativos-móveis-acessíveis-voltados-ao-design-universal--ufabc-2025)
