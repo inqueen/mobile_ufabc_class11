@@ -12,11 +12,14 @@ pluginManagement {
     }
 }
 dependencyResolutionManagement {
+    @Suppress("UnstableApiUsage")
     repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
-    repositories {
+	@Suppress("UnstableApiUsage")
+	repositories {
         google()
         mavenCentral()
-    }
+	    maven { url = uri("https://jitpack.io")}
+	    }
 }
 
 rootProject.name = "ImcApp"
